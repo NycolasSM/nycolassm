@@ -3,7 +3,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 
-!--**NycolasSM/nycolassm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 🌱 No momento estou aprendendo: HTML, CSS, JAVASCRIPT
