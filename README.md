@@ -1,5 +1,5 @@
 <h1 align="center"> Ola! 👋, Aqui é o Nycolas 🙂</h1>
-<h3 align="center">Um estudante pretendendo atuar em FrontEnd 🖥💻</h3>
+<h3 align="center">Um estudante pretendendo atuar em FrontEnd 🖥💻📱</h3>
 
 
 
