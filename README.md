@@ -1,4 +1,4 @@
-<h1 align="center"> Ola! 👋, Aqui é o Nycolas 😁</h1>
+<h1 align="center"> Ola! 👋, Aqui é o Nycolas 🙂</h1>
 <h3 align="center">Um estudante pretendendo atua em FrontEnd 🖥💻</h3>
 
 
