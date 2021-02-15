@@ -3,4 +3,4 @@
 
 
 
-- 🌱 No momento estou aprendendo: HTML, CSS, JAVASCRIPT
+- 🌱 No momento estou aprendendo: HTML, CSS, JAVASCRIPT ⌨
