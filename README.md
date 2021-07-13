@@ -1,14 +1,28 @@
 <img align="right" width="400" height="400" src="https://github.com/NycolasSM/nycolassm/blob/main/perfil%202.png">
 
 # Nycolas Santana
-### Um estudante focado no FrontEnd 🖥💻📱
+### Estudante focado no FrontEnd 🖥💻
 
 <br>
 
+### Sobre Mim:
+
+<p align="left"> 
+
+- 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou me aperfeiçoando no : HTML, CSS, JAVASCRIPT ⌨
-- 📘 estou aprendendo: React 
+- 📘 Aprendendo: React 
+- 💼 Em busca da primeira experiência no mercado
 
 <br>
+
+### Skills:
+
+<p align="left">
+- 🧩 Minhas Stack: <strong>HTML, CSS, JavaScript e Git</strong> <br>
+- 📗 Tecnologias: <strong>Gulp, WebPack</strong>
+</p>
+
 
 ### Contato
 
