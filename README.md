@@ -20,7 +20,7 @@
 
 <p align="left">
 - 🧩 Minhas Stack: <strong>HTML, CSS, JavaScript e Git</strong> <br>
-- 📗 Tecnologias: <strong>Gulp, WebPack, jQuery</strong>
+- 📗 Tecnologias: <strong>Gulp, WebPack, jQuery, Bootstrap</strong>
 </p>
 
 
