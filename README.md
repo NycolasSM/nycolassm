@@ -12,6 +12,7 @@
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou me aperfeiçoando no : HTML, CSS, JAVASCRIPT ⌨
 - 📘 Aprendendo: React 
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 - 💼 Em busca da primeira experiência no mercado
 
 <br>
