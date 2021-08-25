@@ -10,8 +10,8 @@
 <p align="left"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou me aperfeiçoando no : HTML, CSS, JAVASCRIPT ⌨
-- 📘 Aprendendo: React 
+- 📚 No momento estou me aperfeiçoando no : HTML, CSS, JAVASCRIPT, React ⌨
+- 📘 Aprendendo: Integração com Banco de Dados no Servidor Externo
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 - 💼 Em busca da primeira experiência no mercado
 
@@ -21,7 +21,8 @@
 
 <p align="left">
 - 🧩 Minhas Stack: <strong>HTML, CSS, JavaScript e Git</strong> <br>
-- 📗 Tecnologias: <strong>Gulp, WebPack, jQuery, Bootstrap</strong>
+- 📗 Tecnologias: <strong>Gulp, WebPack, jQuery, Bootstrap, React</strong>
+- 🛠 Framework: <strong>NextJS</strong>
 </p>
 
 
