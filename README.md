@@ -21,7 +21,7 @@
 
 <p align="left">
 - 🧩 Minhas Stack: <strong>HTML, CSS, JavaScript e Git</strong> <br>
-- 📗 Tecnologias: <strong>Gulp, WebPack, jQuery, Bootstrap, React</strong>
+- 📗 Tecnologias: <strong>React, Gulp, WebPack, jQuery, Bootstrap</strong>
 - 🛠 Framework: <strong>NextJS</strong>
 </p>
 
