@@ -11,7 +11,7 @@
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou me aperfeiçoando no : React, JAVASCRIPT, HTML, CSS, 
-- 📘 Aprendendo: Integração com Banco de Dados no Servidor Externo
+- 📘 Aprendendo: Banco de Dados
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 - 💼 Em busca da primeira experiência no mercado
 
