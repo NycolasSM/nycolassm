@@ -11,7 +11,7 @@
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou me aperfeiçoando no : React, JAVASCRIPT, HTML, CSS, 
-- 📘 Aprendendo: Banco de Dados
+- 📘 Aprendendo: Banco de Dados (MySql)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 - 💼 Em busca da primeira experiência no mercado
 
