@@ -10,10 +10,11 @@
 <p align="left"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou me aperfeiçoando no : React, JAVASCRIPT, HTML, CSS, 
-- 📘 Aprendendo: Banco de Dados (MySql)
+- 📚 No momento estou me aperfeiçoando no : React, JAVASCRIPT, HTML, CSS,
+- 📘 Aprendendo: Banco de Dados Não Relacional (MongoDB)
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 - 💼 Em busca da primeira experiência no mercado
+
 
 <br>
 
@@ -22,6 +23,7 @@
 <p align="left">
 - 🧩 Minhas Stack: <strong>HTML, CSS, JavaScript e Git</strong> <br>
 - 📗 Tecnologias: <strong>React, Gulp, WebPack, jQuery, Bootstrap</strong> <br>
+- 📗 Banco de Dados: <strong>MySQL</strong> <br>
 - 🛠 Framework: <strong>NextJS, VueJS,</strong>
 </p>
 
