@@ -25,6 +25,7 @@
 - 📗 Tecnologias: <strong>React, Gulp, WebPack, jQuery, Bootstrap..</strong> <br>
 - 🛢 Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
 - 🛠 Framework: <strong>NextJS, VueJS</strong>
+- 🧩 Ferramenta de prototipação: <strong>Figma</strong>
 </p>
 
 ### Contato
