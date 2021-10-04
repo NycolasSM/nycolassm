@@ -24,7 +24,7 @@
 - 🧩 Minhas Stack: <strong>HTML, CSS, JavaScript e Git</strong> <br>
 - 📗 Tecnologias: <strong>React, Gulp, WebPack, jQuery, Bootstrap..</strong> <br>
 - 🛢 Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
-- 🛠 Framework: <strong>NextJS, VueJS</strong>
+- 🛠 Framework: <strong>NextJS, VueJS</strong> <br>
 - 🧩 Ferramenta de prototipação: <strong>Figma</strong>
 </p>
 
