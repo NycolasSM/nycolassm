@@ -21,9 +21,9 @@
 ### Skills:
 
 <p align="left">
-- 🧩 Minhas Stack: <strong>HTML, CSS, JavaScript e Git</strong> <br>
+- 🧩 Minhas Stack: <strong>React, HTML, CSS, JavaScript e Git</strong> <br>
 - 📗 Tecnologias: <strong>React, Gulp, WebPack, jQuery, Bootstrap..</strong> <br>
-- 🛢 Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
+- 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
 - 🛠 Framework: <strong>NextJS, VueJS</strong> <br>
 - 🧩 Ferramenta de prototipação: <strong>Figma</strong>
 </p>
