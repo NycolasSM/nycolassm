@@ -10,8 +10,8 @@
 <p align="left"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou me aperfeiçoando no : React, JAVASCRIPT, HTML, CSS,
-- 📘 Desenvolvendo: Projeto Próprio de um e-comerce em React
+- 📚 No momento estou estudando: TypeScript
+- 📘 Desenvolvendo: Projetos para praticar conhecimentos aprendidos
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 - 💼 Em busca da primeira experiência no mercado
 
