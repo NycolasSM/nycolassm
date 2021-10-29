@@ -1,5 +1,5 @@
 <img align="right" width="400" height="400" src="https://github.com/NycolasSM/nycolassm/blob/main/perfil%202.png">
-<p align="left"><img height="19" src="https://komarev.com/ghpvc/?username=NycolasSM&color=blue" alt="Profile views" /> </p>
+
 
 # Nycolas Santana
 ### Estudante focado no FrontEnd 🖥💻
@@ -38,5 +38,4 @@
   <a href="https://www.linkedin.com/in/nycolas-santana-685b60206/" rel="nofollow">
     <img src="https://img.shields.io/badge/-Nycolas%20Santana-6633cc?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/rafaeldcmartins" style="max-width:100%;">
   </a>
-    
 </p>
