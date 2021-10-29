@@ -1,4 +1,5 @@
 <img align="right" width="400" height="400" src="https://github.com/NycolasSM/nycolassm/blob/main/perfil%202.png">
+<p align="left"><img height="19" src="https://komarev.com/ghpvc/?username=NycolasSM&color=blue" alt="Profile views" /> </p>
 
 # Nycolas Santana
 ### Estudante focado no FrontEnd 🖥💻
