@@ -2,7 +2,7 @@
 
 
 # Nycolas Santana
-### Estudante focado no FrontEnd 🖥💻
+### Web Developer 🖥💻
 
 <br>
 
