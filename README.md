@@ -12,7 +12,7 @@
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou estudando: TypeScript
-- 📘 Desenvolvendo: Projetos para praticar conhecimentos aprendidos
+- 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 - 💼 Em busca da primeira experiência no mercado
 
@@ -23,7 +23,6 @@
 
 <p align="left">
 - 🧩 Minhas Stack: <strong>React, HTML, CSS, JavaScript e Git</strong> <br>
-- 📗 Tecnologias: <strong>React, Gulp, WebPack, jQuery, Bootstrap..</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
 - 🛠 Conhecimento em Framework: <strong>NextJS, VueJS</strong> <br>
 - 🧩 Ferramenta de prototipação: <strong>Figma</strong>
