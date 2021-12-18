@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/NycolasSM/nycolassm/blob/main/perfil%202.png">
+<img align="right" width="450" height="700" right="0px" src="https://i.imgur.com/jJJRSB0.png">
 
 
 # Nycolas Santana
