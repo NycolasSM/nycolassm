@@ -8,7 +8,7 @@
 
 ### Sobre Mim:
 
-<p align="left"> 
+<p align="left" margin-left="10px"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou estudando: Salesforce
@@ -21,7 +21,7 @@
 
 ### Skills:
 
-<p align="left">
+<p align="left" margin-left="10px">
 - 🧩 Minhas Stack: <strong>React, HTML, CSS, JavaScript e Git</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
 - 🛠 Conhecimento em Framework: <strong>NextJS, VueJS</strong> <br>
@@ -30,7 +30,7 @@
 
 ### Contato
 
-<p align="left">
+<p align="left" margin-left="10px">
   <a href="nycolassantana00@gmail.com">
     <img src="https://img.shields.io/badge/nycolassantana00@gmail.com-6633cc?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:nycolassantana00-@gmail.com" style="max-width:100%;">
   </a>
