@@ -14,7 +14,6 @@
 - 📚 No momento estou estudando: TypeScript
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
-- 💼 Em busca da primeira experiência no mercado
 
 
 <br>
