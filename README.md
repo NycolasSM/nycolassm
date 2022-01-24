@@ -2,7 +2,7 @@
 
 
 # Nycolas Santana
-### Web Developer 🖥💻
+### Desenvolvedor Web 🖥💻
 
 <br>
 
