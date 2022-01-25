@@ -27,6 +27,8 @@
 - 🧩 Ferramenta de prototipação: <strong>Figma</strong>
 </p>
 
+<br/>
+
 ### Contato
 
 <p align="left" margin-left="10px">
