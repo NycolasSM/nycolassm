@@ -22,6 +22,7 @@
 
 <p align="left" margin-left="10px">
 - 🧩 Minhas Stack: <strong>React, HTML, CSS, JavaScript e Git</strong> <br>
+- ⚙ Conhecimento em Tecnologias como: <strong>StyledComponents, Express, NodeJs, Gulp, SCSS</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> <strong>MongoDB</strong> <br>
 - 🛠 Conhecimento em Framework: <strong>NextJS, VueJS</strong> <br>
 - 🧩 Ferramenta de prototipação: <strong>Figma</strong>
