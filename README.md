@@ -17,6 +17,7 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 
 
+
 <br>
 
 ### Skills:
@@ -29,6 +30,7 @@
 - 🧩 Ferramenta de prototipação: <strong>Figma</strong>
 </p>
 
+<br/>
 <br/>
 
 ### Contato
