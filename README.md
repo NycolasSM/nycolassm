@@ -12,7 +12,7 @@
 <p align="left" margin-left="10px"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou estudando: TypeScript, DesignPatterns
+- 📚 No momento estou estudando: Testes Automatizados e DesignPatterns
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
 
