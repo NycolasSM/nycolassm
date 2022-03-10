@@ -14,7 +14,7 @@
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
 - 📚 No momento estou estudando: Testes Automatizados e DesignPatterns
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP
 
 
 
@@ -29,6 +29,7 @@
 - 🛠 Conhecimento em Framework: <strong>NextJS, VueJS</strong> <br>
 - 🧩 Ferramenta de prototipação: <strong>Figma</strong>
 </p>
+
 
 <br/>
 <br/>
