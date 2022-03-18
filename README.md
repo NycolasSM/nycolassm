@@ -4,7 +4,6 @@
 # Nycolas Santana
 ### Desenvolvedor Web 🖥💻
 
-
 <br>
 
 ### Sobre Mim:
@@ -12,12 +11,9 @@
 <p align="left" margin-left="10px"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou estudando: Testes Automatizados e DesignPatterns
+- 📚 No momento estou estudando: PostgreSQL e Testes Automatizados
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP
-
-
-
 
 <br>
 
