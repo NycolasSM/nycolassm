@@ -11,7 +11,7 @@
 <p align="left" margin-left="10px"> 
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-- 📚 No momento estou estudando: PostgreSQL e Prisma
+- 📚 No momento estou estudando: PostgreSQL e Wordpress
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP
 
