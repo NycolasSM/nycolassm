@@ -11,10 +11,11 @@
 
 <p align="left" margin-left="10px"> 
 
-- 🌱 Explorando novas tecnologias, técnicas e soluções.
+- 💼 Trabalhando na empresa: LocalSIG Inteligência Geográfica
 - 📚 No momento estou estudando: PostgreSQ, Wordpress e ReactNative
 - 📘 Desenvolvendo Projetos para praticar conhecimentos aprendidos
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP
+- 🌱 Explorando novas tecnologias, técnicas e soluções.
 
 <br>
 
