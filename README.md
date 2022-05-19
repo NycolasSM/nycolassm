@@ -97,7 +97,7 @@ pronto para superar qualquer desafio! 😀
       <img align="center" alt="NycolasSM | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/NycolasSM](https://github.com/NycolasSM" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/nycolasSM" target="_blank">
     <img align="center" alt="NycolasSM | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
