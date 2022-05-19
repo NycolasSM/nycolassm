@@ -89,15 +89,15 @@ pronto para superar qualquer desafio! 😀
     <img align="center" alt="NycolasSM | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/tienhuynh-tn/](https://www.linkedin.com/in/nycolas-santana-685b60206/" target="_blank">
+  <a href="https://www.linkedin.com/in/nycolas-santana-685b60206/" target="_blank">
     <img align="center" alt="NycolasSM | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/tienhuynh.tn/](https://www.facebook.com/nycolas.santana/" target="_blank">
+  <a href="https://www.facebook.com/nycolas.santana/" target="_blank">
       <img align="center" alt="NycolasSM | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/tienhuynh-tn](https://github.com/NycolasSM" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/NycolasSM](https://github.com/NycolasSM" target="_blank">
     <img align="center" alt="NycolasSM | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
