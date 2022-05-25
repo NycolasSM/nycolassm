@@ -15,17 +15,20 @@
 
 
 
-<img src="https://raw.githubusercontent.com/NycolasSM/assets/main/message.gif" width="320px" align="right">
+<!-- <img src="https://raw.githubusercontent.com/NycolasSM/assets/main/message.gif" width="320px" align="right"> -->
+
   
-```
-Um pouco sobre mim:
+<table border="0px">
+ <tr>
+   <td>Um pouco sobre mim</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>
 
-Me considero uma pessoa dedicada e que busca evoluir e aprender
-mais a cada dia, sou apaixonado por desenvolvimento web e mobile,
-busco sempre dar o meu melhor e me dedicar para que eu possa ser 
-um grande profissional na área, buscando sempre estar 
-pronto para superar qualquer desafio! 😀
+#### Me considero uma pessoa dedicada e que busca evoluir e aprender mais a cada dia, sou apaixonado por desenvolvimento web e mobile, busco sempre dar o meu melhor e me dedicar para que eu possa ser um grande profissional na área, buscando sempre estar pronto para superar qualquer desafio! 😀
 
+  </br>
   
 - 💼 Trabalhando na empresa: LocalSIG Inteligência Geográfica
 
@@ -34,7 +37,16 @@ pronto para superar qualquer desafio! 😀
 - 📚 No momento estou estudando: PostgreSQ, Wordpress e ReactNative
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
-```
+   </td>
+    <td>
+      <img align="right" src="https://raw.githubusercontent.com/NycolasSM/assets/main/message.gif" alt="Programmation" width="950px" />
+    </td>
+ </tr>
+</table>
+
+</br>
+</br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> &nbsp; Experiência com as ferramentas:
 
@@ -65,7 +77,9 @@ pronto para superar qualquer desafio! 😀
 ![Java](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Java](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-<br>
+</br>
+</br>
+</br>
 
 ##  📊 &nbsp; Algumas estatísticas
 
