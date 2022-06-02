@@ -9,7 +9,7 @@
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"></img> &nbsp; Seja bem-vindo(a)
+## <img height="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></img> &nbsp; Seja bem-vindo(a)
 
 
 
@@ -48,7 +48,7 @@
 </br>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"> &nbsp; Experiência com as ferramentas:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="40px"> &nbsp; Experiência com as ferramentas:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB")
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -97,7 +97,7 @@
 
 <br>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> &nbsp; Contato:
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="70px"> &nbsp; Contato:
 <p align="center">
   <a href="mailto:nycolassantana00@gmail.com" >
     <img align="center" alt="NycolasSM | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
@@ -112,7 +112,7 @@
   </a> &nbsp;&nbsp;
 
   <a href="https://profile-summary-for-github.herokuapp.com/user/nycolasSM" target="_blank">
-    <img align="center" alt="NycolasSM | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="NycolasSM | GitHub" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
