@@ -97,7 +97,7 @@
 
 <br>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="70px"> &nbsp; Contato:
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60px"> &nbsp; Contato:
 <p align="center">
   <a href="mailto:nycolassantana00@gmail.com" >
     <img align="center" alt="NycolasSM | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
