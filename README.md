@@ -119,6 +119,6 @@
 <br>
   
 <div align="center">
-  :heart_eyes: Obrigado por visualizar meu perfil! Tenha um ótimo dia! :wink: <br/>
+  😁 Obrigado por visualizar meu perfil! Tenha um ótimo dia! :wink: <br/>
 </div>
 
