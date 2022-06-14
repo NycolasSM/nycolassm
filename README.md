@@ -39,7 +39,7 @@
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
    </td>
     <td width="280px">
-      <img height="280px" width="280px" align="right" src="https://raw.githubusercontent.com/NycolasSM/assets/main/message.gif" alt="Programmation"/>
+      <img height="250px" width="280px" align="right" src="https://raw.githubusercontent.com/NycolasSM/assets/main/message.gif" alt="Programmation"/>
     </td>
  </tr>
 </table>
