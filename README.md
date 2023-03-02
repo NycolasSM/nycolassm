@@ -2,16 +2,11 @@
 
 
 
-
-
-
 > Portfólio: <a href ="https://portfolio-nycolas-santana.vercel.app/">https://portfolio-nycolas-santana.vercel.app/</a>
 
 <br>
 
 ## <img height="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></img> &nbsp; Seja bem-vindo(a)
-
-
 
 
 
@@ -32,9 +27,9 @@
   
 - 💼 Trabalhando na empresa: LocalSIG Inteligência Geográfica
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP
+- 🎓 Cursando Desenvolvimento de Softwares - FATEC
 
-- 📚 No momento estou estudando: PostgreSQ, Wordpress e ReactNative
+- 📚 No momento estou me aperfeiçoando em: React-Native, NextJS, Node
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
    </td>
@@ -107,9 +102,10 @@
     <img align="center" alt="NycolasSM | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/nycolas.santana/" target="_blank">
+ <!-- <a href="https://www.facebook.com/nycolas.santana/" target="_blank">
       <img align="center" alt="NycolasSM | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
+-->
 
   <a href="https://profile-summary-for-github.herokuapp.com/user/nycolasSM" target="_blank">
     <img align="center" alt="NycolasSM | GitHub" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
@@ -119,6 +115,6 @@
 <br>
   
 <div align="center">
-  😁 Obrigado por visualizar meu perfil! Tenha um ótimo dia! :wink: <br/>
+  😁 Obrigado pela visita! Tenha um ótimo dia! :wink: <br/>
 </div>
 
