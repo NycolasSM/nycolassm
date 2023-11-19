@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/NycolasSM/assets/main/banner-readme.gif" width="100%"/>
+<!--  <img src="https://raw.githubusercontent.com/NycolasSM/assets/main/banner-readme.gif" width="100%"/> -->
 
 
 
-> Portfólio: <a href ="https://portfolio-nycolas-santana.vercel.app/">https://portfolio-nycolas-santana.vercel.app/</a>
 
-<br>
 
 ## <img height="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></img> &nbsp; Seja bem-vindo(a)
 
@@ -38,6 +36,8 @@
     </td>
  </tr>
 </table>
+
+> Portfólio: <a href ="https://portfolio-nycolas-santana.vercel.app/">https://portfolio-nycolas-santana.vercel.app/</a>
 
 </br>
 </br>
