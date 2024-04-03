@@ -4,7 +4,7 @@
 
 
 
-## <img height="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></img> &nbsp; Seja bem-vindo(a)
+<!-- ## <img height="40px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></img> &nbsp; Seja bem-vindo(a) -->
 
 
 
