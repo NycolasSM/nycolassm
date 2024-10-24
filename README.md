@@ -23,9 +23,7 @@
 
   </br>
   
-- 💼 Trabalhando na empresa: LocalSIG Inteligência Geográfica
-
-- 🎓 Cursando Desenvolvimento de Softwares - FATEC
+- 💼 Trabalhando na empresa: Origin9
 
 - 📚 No momento estou me aperfeiçoando em: React-Native, NextJS, Node
 
