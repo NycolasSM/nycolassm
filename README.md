@@ -25,7 +25,7 @@
   
 - 💼 Trabalhando na empresa: Origin9
 
-- 📚 No momento estou me aperfeiçoando em: React-Native, NextJS, Node
+- 📚 No momento estou me aperfeiçoando em: React-Native, NextJS
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
    </td>
