@@ -86,7 +86,7 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=NycolasSM&theme=tokyonight&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=NycolasSM&theme=react-dark"/>
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=NycolasSM&theme=react-dark"/> -->
   <!-- <img src="https://peaceful-beyond-61134.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/> -->
 </div>
 
@@ -97,16 +97,13 @@
   <a href="mailto:nycolassantana00@gmail.com" >
     <img align="center" alt="NycolasSM | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://www.linkedin.com/in/nycolas-santana-685b60206/" target="_blank">
     <img align="center" alt="NycolasSM | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  
  <!-- <a href="https://www.facebook.com/nycolas.santana/" target="_blank">
       <img align="center" alt="NycolasSM | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
 -->
-
   <a href="https://profile-summary-for-github.herokuapp.com/user/nycolasSM" target="_blank">
     <img align="center" alt="NycolasSM | GitHub" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
